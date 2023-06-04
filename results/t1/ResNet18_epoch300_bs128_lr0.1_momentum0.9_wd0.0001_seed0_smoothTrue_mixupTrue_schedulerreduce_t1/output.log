@@ -1,0 +1,6 @@
+[2023/06/05 01:17:43] - Namespace(Ncrop=True, arch='ResNet18', batch_size=128, data_path='datasets/fer2013/fer2013_new.csv', epochs=300, label_smooth=True, label_smooth_value=0.1, lr=0.1, mixup=True, mixup_alpha=1.0, momentum=0.9, name='t1', results='./results', resume=0, save_freq=10, scheduler='reduce', seed=0, weight_decay=0.0001)
+[2023/06/05 01:17:43] - cuda:0
+[2023/06/05 01:17:43] - Load dataset ...
+[2023/06/05 01:17:51] - Start load model ResNet18 ...
+[2023/06/05 01:17:53] - Start training.
+[2023/06/05 01:17:53] - Epoch 	 Time 	 Train Loss 	 Train ACC 	 Val Loss 	 Val ACC
