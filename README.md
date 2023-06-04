@@ -18,6 +18,7 @@ To evaluate the model, run the following:
 
 ## Reference
 [1]. Barsoum, Emad and Zhang, Cha and Canton Ferrer, Cristian and Zhang, Zhengyou. Training Deep Networks for Facial Expression Recognition with Crowd-Sourced Label Distribution. ACM International Conference on Multimodal Interaction (ICMI)
+
 [2]. Khaireddin, Yousif, and Zhuofa Chen. "Facial Emotion Recognition: State of the Art Performance on FER2013." arXiv preprint arXiv:2105.03588 (2021).
 
 
