@@ -2,7 +2,7 @@
 This work is the final project of the Affective Computing Course of UCAS.
 
 ## Usage
-First, you should download the official Fer2013 dataset and Fer+ annotation, then place it in the outmost folder with the following folder structure `data/fer2013/fer2013.csv` and `data/fer2013/fer2013new.csv`
+First, you should download the official Fer2013 dataset and Fer+ annotation, then place it in the outmost folder with the following folder structure `data/fer2013.csv` and `data/fer2013new.csv`. Then place the generated dataset in the outmost folder with the following folder structure `datasets/fer2013/fer2013_new.csv`
 
 To get the Fer+ dataset, run the following:
 ```
