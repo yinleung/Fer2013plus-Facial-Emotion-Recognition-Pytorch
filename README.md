@@ -2,16 +2,22 @@
 This work is the final project of the Affective Computing Course of UCAS.
 
 ## Usage
-First, you should download the official Fer2013 dataset and Fer+ annotation, then place it in the outmost folder with the following folder structure data/fer2013/fer2013.csv and data/fer2013/fer2013new.csv
+First, you should download the official Fer2013 dataset and Fer+ annotation, then place it in the outmost folder with the following folder structure `data/fer2013/fer2013.csv` and `data/fer2013/fer2013new.csv`
 
 To get the Fer+ dataset, run the following:
-`python data_process.py`
+```
+python data_process.py
+```
 
 To train your own model, run the following:
-`python train.py --name='your_version'`
+```
+python train.py --name='your_version'
+```
 
 To evaluate the model, run the following:
-`python evaluate.py --checkpoint='xxx/best_checkpoint.tar'`
+```
+python evaluate.py --checkpoint='xxx/best_checkpoint.tar'
+```
 
 ## Result
 ![实验结果](https://img1.imgtp.com/2023/06/05/xOPjHrZN.png)
